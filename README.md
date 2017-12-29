@@ -9,6 +9,10 @@ The 201709 MHD STU3 (Track 3) Connectathon [reportout](https://www.dropbox.com/s
 Blog post [reportout](https://healthcaresecprivacy.blogspot.com/2017/09/fhir-connectathon-of-ihe-mhd-profile.html)
 
 
+# Mobile access to Health Documents (MHD) With XDS on FHIR HL7® FHIR® STU 3 
+
+MHD Technical Framework [Rev. 2.3 – Trial Implementation](http://ihe.net/uploadedFiles/Documents/ITI/IHE_ITI_Suppl_MHD.pdf) Date: July 24, 2017
+
 # DCP_STU3_JAVA
 
 The repos also contains IHE FHIR STU3 Dynamic Care Planning (DCP) code:
