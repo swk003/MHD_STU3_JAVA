@@ -8,11 +8,10 @@ The examples build Mobile access to Health Documents (MHD) With XDS on FHIR (HL7
 
 The 201709 MHD STU3 (Track 3) Connectathon report output is located [here](https://www.dropbox.com/s/hrbuj69fs1x61er/MHD_STU3_TRACK.pptx?dl=0).
 
-Link to the Connectathon output [blog](https://healthcaresecprivacy.blogspot.com/2017/09/fhir-connectathon-of-ihe-mhd-profile.html).
+This is the link to the Healthcare Exchange Standards [blog](https://healthcaresecprivacy.blogspot.com/2017/09/fhir-connectathon-of-ihe-mhd-profile.html) on the 201709 IHE-MHD STU3 Profile Connectathon.
 
 
-
-# DCP_STU3_JAVA
+## DCP_STU3_JAVA ##
 
 The repos also contains IHE FHIR STU3 Dynamic Care Planning (DCP) code:
 
